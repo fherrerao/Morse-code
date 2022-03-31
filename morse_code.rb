@@ -18,7 +18,7 @@ def decode_word(str)
 end
 
 def decode(str)
-  str.split('   ').map { |n| decode_word n }.join(' ')    
+  str.split('   ').map { |n| decode_word n }.join(' ')
 end
 
-decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
