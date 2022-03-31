@@ -48,15 +48,19 @@ In the project directory, you can run:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome and highly encouraged!
-We feel that your input is what helps us grow so you're always Welcome :)
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-I would love to hear your thoughts and ideas 🖤
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
